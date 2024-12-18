@@ -1,0 +1,2051 @@
+{
+    "0193b23d-078e-7892-3571-4806fc177fbe": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "0193b23d-07a3-74ae-5b45-197a775c8cbf",
+            "0193b23d-07ae-7e83-f313-03d7f5bebbf6",
+            "0193b23d-07ae-7385-a547-6b043c28578a",
+            "0193b23d-07ae-7b84-0ce1-4e045b5d84b8",
+            "0193b23d-07ae-7495-2d1b-a47815deeddd",
+            "0193b23d-07ae-7b91-17fc-f0bb37e12e56",
+            "0193b23d-07ae-71a9-f825-0c934c1aef2a",
+            "0193b23d-07ae-7eb7-da37-fb057d8465ba",
+            "0193b23d-07ae-7897-baf3-0445f5065a40",
+            "0193b23d-07af-7c94-c515-d0eb272d8bcd",
+            "0193b23d-07af-749a-d752-4205217a514f",
+            "0193b23d-07af-73a1-9b36-381515ee8097",
+            "0193b23d-07af-7a89-c1df-67ecdc686d25",
+            "0193b23d-07af-72a6-ffcf-320ae5e3a0ee",
+            "0193b23d-07af-70b7-bcf7-446da460af6a",
+            "0193b23d-07af-7c97-08a0-46924735ce41",
+            "0193b23d-07af-7fbb-71a5-c1961f34e089",
+            "0193b23d-07af-70ac-f9f2-21698c0e1b46",
+            "0193b23d-07af-7e8a-6db6-6702205b4f6f",
+            "0193b23d-07af-7b81-b271-1f38017742dd",
+            "0193b23d-07af-7e8b-74dd-f60c620ac36b",
+            "0193b23d-07b0-7bbb-9704-254b1ab58fc9",
+            "0193b23d-07b0-7c8a-378e-62fc4533e7c1",
+            "0193b23d-07b0-7aab-341b-42c1a0305113",
+            "0193b23d-07b0-729e-8219-0839f913b93e",
+            "0193b23d-07b0-7687-a7b2-cc58cf87022c",
+            "0193b23d-07b0-7eae-eada-3cce2cf936e3",
+            "0193b23d-07b0-70b5-debe-fbfd46a35c24",
+            "0193b23d-07b0-7b8e-515b-676c6b98c35a",
+            "0193b23d-07b0-7ca1-c7e1-fc6427d90d2e",
+            "0193b23d-07b0-7691-ade2-b45f194f11a9",
+            "0193b23d-07b0-79b0-f9bf-1b051c4a15cf",
+            "0193b23d-07b0-7cbe-a8a4-884f943a5d02",
+            "0193b23d-07b0-7088-309d-34cfad236129",
+            "0193b23d-07b1-78a4-3028-20cf598953f2",
+            "0193b23d-07b1-7b97-b32c-13c8c97bfc35",
+            "0193b23d-07b1-7a91-41de-b412fab72b01",
+            "0193b23d-07b1-719f-d5bf-f13888db0173",
+            "0193b23d-07b1-7bb4-b590-0acc8b70b7ff",
+            "0193b23d-07b1-71a3-090c-8fb6ad9898af",
+            "0193b23d-07b1-7a9b-2830-e1b0bf882971",
+            "0193b23d-07b1-71b2-6398-4b14da6f98c4",
+            "0193b23d-07b1-7e84-8bc0-b397751dc964",
+            "0193b23d-07b1-7da3-bd9d-dff9673d9480",
+            "0193b23d-07b1-7a8e-151f-12e649573f6a",
+            "0193b23d-07b1-7280-538a-f7d9ba71730e",
+            "0193b23d-07b1-7287-560b-ecb295b40dcb",
+            "0193b23d-07b1-7e93-0d2a-711960c853fd",
+            "0193b23d-07b2-7997-035a-a59de14d7b64",
+            "0193b23d-07b2-73ae-3f25-b76bf4aa977b",
+            "0193b23d-07b2-78b1-1a7b-89df104706a0",
+            "0193b23d-07b2-77b6-a40d-c9386efdfef6",
+            "0193b23d-07b2-709a-b2db-3b0ea3f50885",
+            "0193b23d-07b2-7499-28d3-1dea26a8d313",
+            "0193b23d-07b2-7480-f426-1c9264bd2328",
+            "0193b23d-07b2-7aa6-bca6-2bf718fc3e02",
+            "0193b23d-07b2-788a-8a5b-66a4fdf90f9d",
+            "0193b23d-07b2-709a-74b4-6dbe48483796",
+            "0193b23d-07b2-7698-9572-aa53b2688950",
+            "0193b23d-07b2-73b1-c470-e9f0f746e136",
+            "0193b23d-07b2-7a95-e6fd-2547f657e8be",
+            "0193b23d-07b3-78bd-be2e-192a40592f4f",
+            "0193b23d-07b3-7d80-427f-a009cc3998b9",
+            "0193b23d-07b3-75b6-52e1-f6a6038fb2c5",
+            "0193b23d-07b3-71a0-d780-e0c310408a5c",
+            "0193b23d-07b3-70b6-ccf1-4d0249346389",
+            "0193b23d-07b3-7491-cc7f-35ed363f3c46",
+            "0193b23d-07b3-7dbb-047c-00b1422cd112",
+            "0193b23d-07b3-7f86-6210-da1d3f3fada8",
+            "0193b23d-07b3-7582-e617-4b1b6a318e8e",
+            "0193b23d-07b3-7fa4-96aa-c1586a58bd72",
+            "0193b23d-07b4-78b6-c5a7-99d68aaa3832",
+            "0193b23d-07b4-74bb-873a-1a432e4988aa",
+            "0193b23d-07b4-7cb7-fe7c-dc437059be83",
+            "0193b23d-07b4-7b8a-d97c-880bac694066",
+            "0193b23d-07b4-70a6-6101-cf7d7d6dd634",
+            "0193b23d-07b4-7a91-8be1-71d6d8fdae91"
+        ]
+    },
+    "0193b23d-07a3-74ae-5b45-197a775c8cbf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Base.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07a3-7e89-ce7a-071f70fbf028",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07a3-7686-9ae8-0c42de9e0444": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/prototype texture.036.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "0193b23d-07ad-7a9a-a21b-940e0ae3363a"
+        ]
+    },
+    "0193b23d-07a3-7e89-ce7a-071f70fbf028": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Base.mesh.nasset/Dummy Base prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ad-7a9a-a21b-940e0ae3363a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_Prototype_D.tex.nasset"
+    },
+    "0193b23d-07ae-718f-a2a3-68edb3ca879b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Arm Right.mesh.nasset/Dummy Arm Right prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-71a9-f825-0c934c1aef2a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07ae-77a7-c2d1-10d2f499bc03",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7385-a547-6b043c28578a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Arm Left.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07ae-7a9f-b810-9478c5f1ecf6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-73b8-7fec-59d117d9c1ef": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Target.mesh.nasset/Dummy Target prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7495-2d1b-a47815deeddd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Head.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07ae-7ab2-acc2-08e256ef1d4f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7594-e0e3-8892818c3cc4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces A.mesh.nasset/Target Pieces A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-77a7-c2d1-10d2f499bc03": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target.mesh.nasset/Target prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-788a-556f-6e5f573a2544": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Body.mesh.nasset/Dummy Body prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7897-baf3-0445f5065a40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07ae-798c-c477-7db2d855942c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-798c-c477-7db2d855942c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces B.mesh.nasset/Target Pieces B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7a9f-b810-9478c5f1ecf6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Arm Left.mesh.nasset/Dummy Arm Left prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7ab2-acc2-08e256ef1d4f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Head.mesh.nasset/Dummy Head prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7b84-0ce1-4e045b5d84b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Arm Right.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07ae-718f-a2a3-68edb3ca879b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7b91-17fc-f0bb37e12e56": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Target.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07ae-73b8-7fec-59d117d9c1ef",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7e83-f313-03d7f5bebbf6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Dummy Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07ae-788a-556f-6e5f573a2544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07ae-7eb7-da37-fb057d8465ba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07ae-7594-e0e3-8892818c3cc4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7084-70f6-8038759a9aa9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Barrel C.mesh.nasset/Barrel C prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-70a2-83cf-b686aef4086a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Box A.mesh.nasset/Box A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-70ac-f9f2-21698c0e1b46": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Box B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-7998-dd77-a7fe6d19e7c4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-70b7-bcf7-446da460af6a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Barrel B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-7d8b-0b4a-5a02ff0329a6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7195-e628-cea2ae22941a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Barrel A.mesh.nasset/Barrel A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-71b4-ea98-b86452852827": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Box C.mesh.nasset/Box C prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7294-8d88-a2733a05f0e7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces F.mesh.nasset/Target Pieces F prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-72a1-9eb8-ab005daf8d50": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Can B.mesh.nasset/Can B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-72a6-ffcf-320ae5e3a0ee": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Barrel A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-7195-e628-cea2ae22941a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-73a1-9b36-381515ee8097": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces E.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-7989-1fa4-f200c02dcb9c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-749a-d752-4205217a514f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces D.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-74a3-8780-6c7c5f08683e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-74a3-8780-6c7c5f08683e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces D.mesh.nasset/Target Pieces D prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7692-bd16-848cdc840374": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Can A.mesh.nasset/Can A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7989-1fa4-f200c02dcb9c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces E.mesh.nasset/Target Pieces E prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7998-dd77-a7fe6d19e7c4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Box B.mesh.nasset/Box B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7a89-c1df-67ecdc686d25": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces F.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-7294-8d88-a2733a05f0e7",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7b81-b271-1f38017742dd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Can A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-7692-bd16-848cdc840374",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7c94-c515-d0eb272d8bcd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-7ca3-d258-53674dc2ec9d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7c97-08a0-46924735ce41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Barrel C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-7084-70f6-8038759a9aa9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7ca3-d258-53674dc2ec9d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Pieces C.mesh.nasset/Target Pieces C prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7d8b-0b4a-5a02ff0329a6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Barrel B.mesh.nasset/Barrel B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7e8a-6db6-6702205b4f6f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Box C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-71b4-ea98-b86452852827",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7e8b-74dd-f60c620ac36b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Can B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-72a1-9eb8-ab005daf8d50",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07af-7fbb-71a5-c1961f34e089": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Box A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07af-70a2-83cf-b686aef4086a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7088-309d-34cfad236129": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pallet Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7dbf-14df-dbe5827f9cec",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-70b5-debe-fbfd46a35c24": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Door A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7196-96e8-0ea0f23cc476",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-70bc-ff2e-2d0c1ed74838": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Door B.mesh.nasset/Door B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7196-96e8-0ea0f23cc476": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Door A.mesh.nasset/Door A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7296-24b1-0111d6d94b0a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Coin A.mesh.nasset/Coin A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-729e-8219-0839f913b93e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Cube Prototype Large A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-72a4-f6cd-2723ec32c0cb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-72a4-f6cd-2723ec32c0cb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Cube Prototype Large A.mesh.nasset/Cube Prototype Large A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7390-f9d1-78d9badd80c4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Floor.mesh.nasset/Floor prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7393-fb9c-4e941ab1ac88": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Coin C.mesh.nasset/Coin C prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-73aa-55b9-0607756df821": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Floor Dirt.mesh.nasset/Floor Dirt prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7687-a7b2-cc58cf87022c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Cube Prototype Large B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7b9b-9fc7-31f759cfaa4e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7691-ade2-b45f194f11a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Floor.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7390-f9d1-78d9badd80c4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-79b0-f9bf-1b051c4a15cf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Floor Dirt.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-73aa-55b9-0607756df821",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7aab-341b-42c1a0305113": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Coin C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7393-fb9c-4e941ab1ac88",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7b8e-515b-676c6b98c35a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Door A Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7e8a-a5f5-374169ddeac6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7b9b-9fc7-31f759cfaa4e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Cube Prototype Large B.mesh.nasset/Cube Prototype Large B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7b9c-ed53-b977b13a3727": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Cube Prototype Small.mesh.nasset/Cube Prototype Small prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7bbb-9704-254b1ab58fc9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Coin A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7296-24b1-0111d6d94b0a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7c8a-378e-62fc4533e7c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Coin B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7fbe-9f78-04bf85f23042",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7ca1-c7e1-fc6427d90d2e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Door B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-70bc-ff2e-2d0c1ed74838",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7cbe-a8a4-884f943a5d02": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Floor Prototype.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7dae-2fb4-6819f9bf342f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7dae-2fb4-6819f9bf342f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Floor Prototype.mesh.nasset/Floor Prototype prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7dbf-14df-dbe5827f9cec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pallet Large.mesh.nasset/Pallet Large prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7e8a-a5f5-374169ddeac6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Door A Decorated.mesh.nasset/Door A Decorated prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7eae-eada-3cce2cf936e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Cube Prototype Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b0-7b9c-ed53-b977b13a3727",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b0-7fbe-9f78-04bf85f23042": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Coin B.mesh.nasset/Coin B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7189-d391-224abc3bd9d4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Cube.mesh.nasset/Primitive Cube prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-719f-d5bf-f13888db0173": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pillar A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7ca0-db24-d88829e676b7",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-71a3-090c-8fb6ad9898af": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Beam.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7594-0368-6c5efcb93999",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-71b2-6398-4b14da6f98c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Cube Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-74a1-3992-8ac4e149fc66",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7280-538a-f7d9ba71730e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Pillar.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7698-2c4f-f43966287cea",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7287-560b-ecb295b40dcb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7fa6-0872-fe3eecb3c525",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-74a1-3992-8ac4e149fc66": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Cube Small.mesh.nasset/Primitive Cube Small prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7594-0368-6c5efcb93999": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Beam.mesh.nasset/Primitive Beam prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7698-2c4f-f43966287cea": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Pillar.mesh.nasset/Primitive Pillar prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-76a6-451c-f395876546e2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pillar B.mesh.nasset/Pillar B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-788e-4db4-f664d5ee7e21": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pallet Small Decorated B.mesh.nasset/Pallet Small Decorated B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-78a4-3028-20cf598953f2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pallet Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7dba-296a-cf76a52547f8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7a8e-151f-12e649573f6a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Floor Hole.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7c8a-289c-16fed178945b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7a91-41de-b412fab72b01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pallet Small Decorated B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-788e-4db4-f664d5ee7e21",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7a9b-2830-e1b0bf882971": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Cube.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7189-d391-224abc3bd9d4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7b97-b32c-13c8c97bfc35": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pallet Small Decorated A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7ea4-1d47-aab85ab8a4f3",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7bb4-b590-0acc8b70b7ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pillar B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-76a6-451c-f395876546e2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7c8a-289c-16fed178945b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Floor Hole.mesh.nasset/Primitive Floor Hole prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7ca0-db24-d88829e676b7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pillar A.mesh.nasset/Pillar A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7da3-bd9d-dff9673d9480": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Floor.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7e91-41fd-eab89e45b55a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7dba-296a-cf76a52547f8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pallet Small.mesh.nasset/Pallet Small prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7e84-8bc0-b397751dc964": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Doorway.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7ea6-4e1a-dc05fc9993f4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7e91-41fd-eab89e45b55a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Floor.mesh.nasset/Primitive Floor prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7e93-0d2a-711960c853fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Half.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b1-7f99-641b-002d34651a5e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7ea4-1d47-aab85ab8a4f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Pallet Small Decorated A.mesh.nasset/Pallet Small Decorated A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7ea6-4e1a-dc05fc9993f4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Doorway.mesh.nasset/Primitive Doorway prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7f99-641b-002d34651a5e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Half.mesh.nasset/Primitive Slope Half prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b1-7fa6-0872-fe3eecb3c525": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope.mesh.nasset/Primitive Slope prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7097-33ca-03ab3f9768db": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Table Medium.mesh.nasset/Table Medium prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-709a-74b4-6dbe48483796": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall Short.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-78a8-983f-8fb3701b908c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-709a-b2db-3b0ea3f50885": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Stairs.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-75ae-12b2-e5956b53696f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-71a4-4d02-6c87708145cb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Half Inner Corner.mesh.nasset/Primitive Slope Half Inner Corner prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-72a2-7fda-c0870ed1ce87": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall Open Corner.mesh.nasset/Primitive Wall Open Corner prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-739e-9369-7a5e0a8243c1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Inner Corner.mesh.nasset/Primitive Slope Inner Corner prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-73ae-3f25-b76bf4aa977b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Half Outer Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-7ea2-14bf-aeadca66e456",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-73b1-c470-e9f0f746e136": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Window.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-7fb4-d22e-7cd999b938c1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7480-f426-1c9264bd2328": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-75b0-0d9d-ee04e8683ed7",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7499-28d3-1dea26a8d313": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Stairs Half.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-77a4-b4a4-432f044dd01c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-75ae-12b2-e5956b53696f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Stairs.mesh.nasset/Primitive Stairs prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-75b0-0d9d-ee04e8683ed7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall.mesh.nasset/Primitive Wall prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7698-9572-aa53b2688950": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall Slope.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-7cbb-5ff2-c9ebaf774879",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7796-19fe-df92b5529a5e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall Half.mesh.nasset/Primitive Wall Half prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-77a4-b4a4-432f044dd01c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Stairs Half.mesh.nasset/Primitive Stairs Half prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-77b6-a40d-c9386efdfef6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Outer Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-7880-a981-030b86575356",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7880-a981-030b86575356": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Outer Corner.mesh.nasset/Primitive Slope Outer Corner prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-788a-8a5b-66a4fdf90f9d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall Open Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-72a2-7fda-c0870ed1ce87",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-78a8-983f-8fb3701b908c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall Short.mesh.nasset/Primitive Wall Short prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-78b1-1a7b-89df104706a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Inner Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-739e-9369-7a5e0a8243c1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7997-035a-a59de14d7b64": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Half Inner Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-71a4-4d02-6c87708145cb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7a95-e6fd-2547f657e8be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Table Medium.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-7097-33ca-03ab3f9768db",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7aa6-bca6-2bf718fc3e02": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall Half.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b2-7796-19fe-df92b5529a5e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7cbb-5ff2-c9ebaf774879": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Wall Slope.mesh.nasset/Primitive Wall Slope prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7ea2-14bf-aeadca66e456": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Slope Half Outer Corner.mesh.nasset/Primitive Slope Half Outer Corner prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b2-7fb4-d22e-7cd999b938c1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Primitive Window.mesh.nasset/Primitive Window prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7087-8cbc-9bc49a217995": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Table Medium Decorated.mesh.nasset/Table Medium Decorated prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-70b6-ccf1-4d0249346389": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Stand A Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-7c82-d517-722ddd3bf1fe",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-719b-b5e5-7813429b9cfe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Wall Small.mesh.nasset/Target Wall Small prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-71a0-d780-e0c310408a5c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Stand A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-78a7-95c8-8261deead56b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7491-cc7f-35ed363f3c46": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Stand B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-798c-d619-4da5d24d4036",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-74b4-75cb-3e7a48227d10": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Wall Large B.mesh.nasset/Target Wall Large B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7582-e617-4b1b6a318e8e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Wall Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-719b-b5e5-7813429b9cfe",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7593-d5bd-e2cb65015b5f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall.mesh.nasset/Wall prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-75b6-52e1-f6a6038fb2c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-79a5-0f02-e8587c801235",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-77bd-90cf-47d4ea2039e5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Wall Large A.mesh.nasset/Target Wall Large A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-78a7-95c8-8261deead56b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Stand A.mesh.nasset/Target Stand A prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-78bd-be2e-192a40592f4f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Table Medium Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-7087-8cbc-9bc49a217995",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-798c-d619-4da5d24d4036": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Stand B.mesh.nasset/Target Stand B prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-79a5-0f02-e8587c801235": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Small.mesh.nasset/Target Small prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7c82-d517-722ddd3bf1fe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Stand A Decorated.mesh.nasset/Target Stand A Decorated prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7ca0-8a68-887cef4730ba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Table Medium Long.mesh.nasset/Table Medium Long prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7d80-427f-a009cc3998b9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Table Medium Long.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-7ca0-8a68-887cef4730ba",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7dbb-047c-00b1422cd112": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Wall Large A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-77bd-90cf-47d4ea2039e5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7f86-6210-da1d3f3fada8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Target Wall Large B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-74b4-75cb-3e7a48227d10",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b3-7fa4-96aa-c1586a58bd72": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b3-7593-d5bd-e2cb65015b5f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-70a2-9aca-79528054186a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Window Closed.mesh.nasset/Wall Window Closed prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-70a6-6101-cf7d7d6dd634": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Window Closed.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b4-70a2-9aca-79528054186a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-7391-f195-70289e513c57": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Decorated.mesh.nasset/Wall Decorated prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-74bb-873a-1a432e4988aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Doorway.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b4-7d8c-05fb-bb808230b71c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-75ab-b2de-9927fb73f7be": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Target.mesh.nasset/Wall Target prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-769c-8260-c71deb536bd9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Half.mesh.nasset/Wall Half prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-78b6-c5a7-99d68aaa3832": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b4-7391-f195-70289e513c57",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-7a91-8be1-71d6d8fdae91": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Window Open.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b4-7e8b-66c8-dd004c356658",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-7b8a-d97c-880bac694066": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Target.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b4-75ab-b2de-9927fb73f7be",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-7cb7-fe7c-dc437059be83": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Half.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "0193b23d-07b4-769c-8260-c71deb536bd9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-7d8c-05fb-bb808230b71c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Doorway.mesh.nasset/Wall Doorway prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b23d-07b4-7e8b-66c8-dd004c356658": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Prototype_Bits.scene.nasset/Wall Window Open.mesh.nasset/Wall Window Open prototype texture.036.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b23d-07a3-7686-9ae8-0c42de9e0444",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193d84c-4ce0-73b2-eeb9-dcc65bc2c7d6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Protohype_Thumb.tex.nasset"
+    },
+    "8f3faff5-857b-4e84-b151-76fe10ef9301": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Protohype.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":2048.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
+        }
+    },
+    "b8124f0e-d49a-4f18-bd1f-5c83edab17b8": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Protohype",
+        "thumbnail": "0193d84b-d019-7baa-ab27-3e7c5a2ca8d4",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "guid": "0193d84b-d019-7baa-ab27-3e7c5a2ca8d4",
+    "imported_assets": [
+        "0193b969-bd4f-7aac-fa6e-3a2d46b05c6b",
+        "0193b969-c005-7188-0114-6600672b15c3",
+        "4a9bd1ca-0b9d-4f5e-ae58-0ecbbe0af249"
+    ]
+}
