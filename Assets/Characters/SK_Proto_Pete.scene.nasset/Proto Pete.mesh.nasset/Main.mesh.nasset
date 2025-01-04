@@ -1,0 +1,250 @@
+{
+    "guid": "01942ee5-8680-7c92-37a2-c373b6056a2b",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "01942ee5-8680-7085-26ce-73c7fd4414a4",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "01942ee5-8680-7a98-c5fd-1c5a35db5de9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Proto Pete Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "01942ee5-8681-7ea7-f789-27130c7c143c",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "8325bf22-93be-412e-851c-fadaf0cd2c2a",
+                                "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
+                                "1a35537c-bf4e-45e4-a52a-585c5cee7990"
+                            ],
+                            "jump_animations": [
+                                "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
+                                "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
+                                "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942ee5-8681-729c-e8e1-aa2849b003be",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Proto Pete Shirt"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942ee5-8680-7aa8-1f06-863b1520b8c9",
+                                "material_instance": "01942ee5-8680-7e80-3ba1-6dd327f1772e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942ee5-8681-709b-b5d2-07b2f2f400ac"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942ee5-8681-7c85-2a8c-46c208926993",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Proto Pete Tie"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942ee5-8681-729d-3ea9-15bdc0253e43",
+                                "material_instance": "01942ee5-8681-7784-f29b-a8b63bb1d835"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942ee5-8681-7586-45d5-5b1fab5a1e5d"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942ee5-8681-76b4-f71f-34f0d9486616",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Proto Pete Skin"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942ee5-8681-7e8a-dede-3f2f8a7ee53d",
+                                "material_instance": "01942ee5-8681-7ab2-723d-825d65e6500e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942ee5-8681-7cac-9d8b-78add52d9090"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942ee5-8681-748e-e557-0fe735421563",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Proto Pete Hair Facial"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942ee5-8681-7a89-34bc-f5734a7ed664",
+                                "material_instance": "01942ee5-8681-7d8c-ebeb-bd3931bf49a8"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942ee5-8681-7fa5-2884-43832173071b"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942ee5-8681-7c85-15cf-efb4842d7a3a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Proto Pete Steel"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942ee5-8681-7eb9-2d69-1803055837c8",
+                                "material_instance": "01942ee5-8681-7e98-8758-2500185d893c"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942ee5-8681-7482-8d9a-1ad10a3e8981"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942ee5-8681-7b99-1197-61815c38fa32",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Proto Pete Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942ee5-8681-76a5-04e6-b6f217ddd704",
+                                "material_instance": "01942ee5-8681-73b9-377e-3d36cb2f30e8"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942ee5-8681-73b2-e37d-c7e2ae9601d4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942ee5-8681-75a3-e28e-d2af8a1e1296",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Proto Pete Hair"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942ee5-8681-779f-7ee1-b1ae4045eab9",
+                                "material_instance": "01942ee5-8681-749c-3611-f3ceef006800"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942ee5-8681-7294-fc36-15fa07fb55ba"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "01942ee5-8681-7bb7-cae1-d247799d2d07"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "01942ee5-8680-7c92-37a2-c373b6056a2b"
+    },
+    "dependencies": [
+        "01942ee5-8680-7e80-3ba1-6dd327f1772e",
+        "01942ee5-8680-7aa8-1f06-863b1520b8c9",
+        "01942ee5-8681-709b-b5d2-07b2f2f400ac",
+        "01942ee5-8681-7784-f29b-a8b63bb1d835",
+        "01942ee5-8681-729d-3ea9-15bdc0253e43",
+        "01942ee5-8681-7586-45d5-5b1fab5a1e5d",
+        "01942ee5-8681-7ab2-723d-825d65e6500e",
+        "01942ee5-8681-7e8a-dede-3f2f8a7ee53d",
+        "01942ee5-8681-7cac-9d8b-78add52d9090",
+        "01942ee5-8681-7d8c-ebeb-bd3931bf49a8",
+        "01942ee5-8681-7a89-34bc-f5734a7ed664",
+        "01942ee5-8681-7fa5-2884-43832173071b",
+        "01942ee5-8681-7e98-8758-2500185d893c",
+        "01942ee5-8681-7eb9-2d69-1803055837c8",
+        "01942ee5-8681-7482-8d9a-1ad10a3e8981",
+        "01942ee5-8681-73b9-377e-3d36cb2f30e8",
+        "01942ee5-8681-76a5-04e6-b6f217ddd704",
+        "01942ee5-8681-73b2-e37d-c7e2ae9601d4",
+        "01942ee5-8681-749c-3611-f3ceef006800",
+        "01942ee5-8681-779f-7ee1-b1ae4045eab9",
+        "01942ee5-8681-7294-fc36-15fa07fb55ba",
+        "01942ee5-8681-7bb7-cae1-d247799d2d07",
+        "8325bf22-93be-412e-851c-fadaf0cd2c2a",
+        "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
+        "1a35537c-bf4e-45e4-a52a-585c5cee7990",
+        "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
+        "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
+        "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+    ]
+}

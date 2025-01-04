@@ -2024,34 +2024,303 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Protohype_Thumb.tex.nasset"
     },
+    "01942ee5-8672-7e9f-acf3-ae5a15d51e84": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "01942ee5-8680-7c92-37a2-c373b6056a2b"
+        ]
+    },
+    "01942ee5-8680-7aa8-1f06-863b1520b8c9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Shirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942ee5-8680-7e80-3ba1-6dd327f1772e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942ee5-8680-7c92-37a2-c373b6056a2b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01942ee5-8680-7e80-3ba1-6dd327f1772e",
+            "01942ee5-8680-7aa8-1f06-863b1520b8c9",
+            "01942ee5-8681-709b-b5d2-07b2f2f400ac",
+            "01942ee5-8681-7784-f29b-a8b63bb1d835",
+            "01942ee5-8681-729d-3ea9-15bdc0253e43",
+            "01942ee5-8681-7586-45d5-5b1fab5a1e5d",
+            "01942ee5-8681-7ab2-723d-825d65e6500e",
+            "01942ee5-8681-7e8a-dede-3f2f8a7ee53d",
+            "01942ee5-8681-7cac-9d8b-78add52d9090",
+            "01942ee5-8681-7d8c-ebeb-bd3931bf49a8",
+            "01942ee5-8681-7a89-34bc-f5734a7ed664",
+            "01942ee5-8681-7fa5-2884-43832173071b",
+            "01942ee5-8681-7e98-8758-2500185d893c",
+            "01942ee5-8681-7eb9-2d69-1803055837c8",
+            "01942ee5-8681-7482-8d9a-1ad10a3e8981",
+            "01942ee5-8681-73b9-377e-3d36cb2f30e8",
+            "01942ee5-8681-76a5-04e6-b6f217ddd704",
+            "01942ee5-8681-73b2-e37d-c7e2ae9601d4",
+            "01942ee5-8681-749c-3611-f3ceef006800",
+            "01942ee5-8681-779f-7ee1-b1ae4045eab9",
+            "01942ee5-8681-7294-fc36-15fa07fb55ba",
+            "01942ee5-8681-7bb7-cae1-d247799d2d07",
+            "8325bf22-93be-412e-851c-fadaf0cd2c2a",
+            "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
+            "1a35537c-bf4e-45e4-a52a-585c5cee7990",
+            "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
+            "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
+            "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+        ]
+    },
+    "01942ee5-8680-7e80-3ba1-6dd327f1772e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Shirt.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01942ee5-8681-709b-b5d2-07b2f2f400ac": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Shirt.meshskin.nasset",
+        "dependencies": [
+            "01942ee5-8680-7aa8-1f06-863b1520b8c9",
+            "01942ee5-8681-7bb7-cae1-d247799d2d07",
+            "01942ee5-8680-7e80-3ba1-6dd327f1772e"
+        ]
+    },
+    "01942ee5-8681-7294-fc36-15fa07fb55ba": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Hair.meshskin.nasset",
+        "dependencies": [
+            "01942ee5-8681-779f-7ee1-b1ae4045eab9",
+            "01942ee5-8681-7bb7-cae1-d247799d2d07",
+            "01942ee5-8681-749c-3611-f3ceef006800"
+        ]
+    },
+    "01942ee5-8681-729d-3ea9-15bdc0253e43": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Tie.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942ee5-8681-7784-f29b-a8b63bb1d835",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942ee5-8681-73b2-e37d-c7e2ae9601d4": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Black.meshskin.nasset",
+        "dependencies": [
+            "01942ee5-8681-76a5-04e6-b6f217ddd704",
+            "01942ee5-8681-7bb7-cae1-d247799d2d07",
+            "01942ee5-8681-73b9-377e-3d36cb2f30e8"
+        ]
+    },
+    "01942ee5-8681-73b9-377e-3d36cb2f30e8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01942ee5-8681-7482-8d9a-1ad10a3e8981": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Steel.meshskin.nasset",
+        "dependencies": [
+            "01942ee5-8681-7eb9-2d69-1803055837c8",
+            "01942ee5-8681-7bb7-cae1-d247799d2d07",
+            "01942ee5-8681-7e98-8758-2500185d893c"
+        ]
+    },
+    "01942ee5-8681-749c-3611-f3ceef006800": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Hair.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01942ee5-8681-7586-45d5-5b1fab5a1e5d": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Tie.meshskin.nasset",
+        "dependencies": [
+            "01942ee5-8681-729d-3ea9-15bdc0253e43",
+            "01942ee5-8681-7bb7-cae1-d247799d2d07",
+            "01942ee5-8681-7784-f29b-a8b63bb1d835"
+        ]
+    },
+    "01942ee5-8681-76a5-04e6-b6f217ddd704": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942ee5-8681-73b9-377e-3d36cb2f30e8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942ee5-8681-7784-f29b-a8b63bb1d835": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Tie.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01942ee5-8681-779f-7ee1-b1ae4045eab9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Hair.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942ee5-8681-749c-3611-f3ceef006800",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942ee5-8681-7a89-34bc-f5734a7ed664": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Hair Facial.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942ee5-8681-7d8c-ebeb-bd3931bf49a8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942ee5-8681-7ab2-723d-825d65e6500e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01942ee5-8681-7bb7-cae1-d247799d2d07": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "01942ee5-8681-7cac-9d8b-78add52d9090": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Skin.meshskin.nasset",
+        "dependencies": [
+            "01942ee5-8681-7e8a-dede-3f2f8a7ee53d",
+            "01942ee5-8681-7bb7-cae1-d247799d2d07",
+            "01942ee5-8681-7ab2-723d-825d65e6500e"
+        ]
+    },
+    "01942ee5-8681-7d8c-ebeb-bd3931bf49a8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Hair Facial.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01942ee5-8681-7e8a-dede-3f2f8a7ee53d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942ee5-8681-7ab2-723d-825d65e6500e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942ee5-8681-7e98-8758-2500185d893c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Steel.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "01942ee5-8681-7eb9-2d69-1803055837c8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Steel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942ee5-8681-7e98-8758-2500185d893c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942ee5-8681-7fa5-2884-43832173071b": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Proto_Pete.scene.nasset/Proto Pete.mesh.nasset/Proto Pete Hair Facial.meshskin.nasset",
+        "dependencies": [
+            "01942ee5-8681-7a89-34bc-f5734a7ed664",
+            "01942ee5-8681-7bb7-cae1-d247799d2d07",
+            "01942ee5-8681-7d8c-ebeb-bd3931bf49a8"
+        ]
+    },
+    "01942eea-2815-7fbe-3b88-716dab7f0fd1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Protohype_Enviro.tex.nasset"
+    },
+    "01942eea-2972-7eb8-4b9f-d0de59e168fe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Protohype_EnviroDiffuse.tex.nasset"
+    },
+    "01942eea-29b0-7683-5f9b-0e76a4bd4973": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Protohype_EnviroSpecular.tex.nasset"
+    },
+    "1a35537c-bf4e-45e4-a52a-585c5cee7990": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Run.anim.nasset",
+        "dependencies": [
+            "01942ee5-8681-7bb7-cae1-d247799d2d07"
+        ]
+    },
     "2a782849-5cea-4ec6-87c5-c0c69ad56d0f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Thumbnails/Default_Character.scene.nasset.tex.nasset"
     },
-    "501d9460-b05a-4017-bbb9-dd2049539305": {
+    "6eb7cba4-8075-4958-8ecb-d9b67aeb4ad2": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Player_Scripts/Default Character.scene.nasset",
+        "path": "Assets/Characters/Proto Pete.scene.nasset",
         "thumbnail": "3ef9eede-047b-44a5-999f-8bbf06ad9921",
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
-            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+            "01942ee5-8680-7c92-37a2-c373b6056a2b"
         ]
     },
-    "809b712f-7745-4f36-aee3-20b93c14ce99": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Default Character.scene.nasset",
-        "thumbnail": "3ef9eede-047b-44a5-999f-8bbf06ad9921",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
-            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
-        ],
+    "8325bf22-93be-412e-851c-fadaf0cd2c2a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Idle.anim.nasset",
         "dependencies": [
-            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+            "01942ee5-8681-7bb7-cae1-d247799d2d07"
         ]
     },
     "8f3faff5-857b-4e84-b151-76fe10ef9301": {
@@ -2063,6 +2332,28 @@
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
         }
     },
+    "9a82901c-b63f-4688-9e9f-f2c99bb878d0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Jump Start.anim.nasset",
+        "dependencies": [
+            "01942ee5-8681-7bb7-cae1-d247799d2d07"
+        ]
+    },
+    "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Walk.anim.nasset",
+        "dependencies": [
+            "01942ee5-8681-7bb7-cae1-d247799d2d07"
+        ]
+    },
+    "b800cf11-2b46-4104-a8b2-ae87a6ed0ec2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Materials/M_Protohype_Skybox.mtli.nasset",
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
+    },
     "b8124f0e-d49a-4f18-bd1f-5c83edab17b8": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
@@ -2070,6 +2361,22 @@
         "thumbnail": "0193d84c-4ce0-73b2-eeb9-dcc65bc2c7d6",
         "tags": [
             "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "da6963f7-0ef1-45f0-8b7f-b031989b09c0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Jump Loop.anim.nasset",
+        "dependencies": [
+            "01942ee5-8681-7bb7-cae1-d247799d2d07"
+        ]
+    },
+    "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Jump End.anim.nasset",
+        "dependencies": [
+            "01942ee5-8681-7bb7-cae1-d247799d2d07"
         ]
     },
     "guid": "0193d84b-d019-7baa-ab27-3e7c5a2ca8d4",
