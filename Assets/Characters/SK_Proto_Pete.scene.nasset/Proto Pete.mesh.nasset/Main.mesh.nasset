@@ -33,14 +33,14 @@
                         {
                             "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
                             "move_animations": [
-                                "8325bf22-93be-412e-851c-fadaf0cd2c2a",
-                                "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
-                                "1a35537c-bf4e-45e4-a52a-585c5cee7990"
+                                "b3b68f6a-430a-4e34-bdb3-d4c08246f12b",
+                                "c3ca7746-8ba7-42fc-9925-317d58a3ccc3",
+                                "f629c976-d063-46e3-a4df-e1c873701bdf"
                             ],
                             "jump_animations": [
-                                "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
-                                "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
-                                "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+                                "2e6599b0-cbb7-411c-a037-e53330ee3b58",
+                                "67c945e9-1684-47e1-a531-0100309e707e",
+                                "529d9681-3fd9-4553-a2cc-e30e4a5dfc76"
                             ]
                         }
                     ],
@@ -240,11 +240,11 @@
         "01942ee5-8681-779f-7ee1-b1ae4045eab9",
         "01942ee5-8681-7294-fc36-15fa07fb55ba",
         "01942ee5-8681-7bb7-cae1-d247799d2d07",
-        "8325bf22-93be-412e-851c-fadaf0cd2c2a",
-        "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
-        "1a35537c-bf4e-45e4-a52a-585c5cee7990",
-        "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
-        "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
-        "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+        "b3b68f6a-430a-4e34-bdb3-d4c08246f12b",
+        "c3ca7746-8ba7-42fc-9925-317d58a3ccc3",
+        "f629c976-d063-46e3-a4df-e1c873701bdf",
+        "2e6599b0-cbb7-411c-a037-e53330ee3b58",
+        "67c945e9-1684-47e1-a531-0100309e707e",
+        "529d9681-3fd9-4553-a2cc-e30e4a5dfc76"
     ]
 }

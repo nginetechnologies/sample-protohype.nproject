@@ -2074,12 +2074,12 @@
             "01942ee5-8681-779f-7ee1-b1ae4045eab9",
             "01942ee5-8681-7294-fc36-15fa07fb55ba",
             "01942ee5-8681-7bb7-cae1-d247799d2d07",
-            "8325bf22-93be-412e-851c-fadaf0cd2c2a",
-            "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
-            "1a35537c-bf4e-45e4-a52a-585c5cee7990",
-            "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
-            "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
-            "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+            "b3b68f6a-430a-4e34-bdb3-d4c08246f12b",
+            "c3ca7746-8ba7-42fc-9925-317d58a3ccc3",
+            "f629c976-d063-46e3-a4df-e1c873701bdf",
+            "2e6599b0-cbb7-411c-a037-e53330ee3b58",
+            "67c945e9-1684-47e1-a531-0100309e707e",
+            "529d9681-3fd9-4553-a2cc-e30e4a5dfc76"
         ]
     },
     "01942ee5-8680-7e80-3ba1-6dd327f1772e": {
@@ -2290,17 +2290,33 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Protohype_EnviroSpecular.tex.nasset"
     },
-    "1a35537c-bf4e-45e4-a52a-585c5cee7990": {
+    "2a782849-5cea-4ec6-87c5-c0c69ad56d0f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Thumbnails/Default_Character.scene.nasset.tex.nasset"
+    },
+    "2e6599b0-cbb7-411c-a037-e53330ee3b58": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Run.anim.nasset",
+        "path": "Assets/Characters/Animations/Jump Start.anim.nasset",
         "dependencies": [
             "01942ee5-8681-7bb7-cae1-d247799d2d07"
         ]
     },
-    "2a782849-5cea-4ec6-87c5-c0c69ad56d0f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/Thumbnails/Default_Character.scene.nasset.tex.nasset"
+    "529d9681-3fd9-4553-a2cc-e30e4a5dfc76": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Jump End.anim.nasset",
+        "dependencies": [
+            "01942ee5-8681-7bb7-cae1-d247799d2d07"
+        ]
+    },
+    "67c945e9-1684-47e1-a531-0100309e707e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Jump Loop.anim.nasset",
+        "dependencies": [
+            "01942ee5-8681-7bb7-cae1-d247799d2d07"
+        ]
     },
     "6eb7cba4-8075-4958-8ecb-d9b67aeb4ad2": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2315,14 +2331,6 @@
             "01942ee5-8680-7c92-37a2-c373b6056a2b"
         ]
     },
-    "8325bf22-93be-412e-851c-fadaf0cd2c2a": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Idle.anim.nasset",
-        "dependencies": [
-            "01942ee5-8681-7bb7-cae1-d247799d2d07"
-        ]
-    },
     "8f3faff5-857b-4e84-b151-76fe10ef9301": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
@@ -2332,18 +2340,10 @@
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
         }
     },
-    "9a82901c-b63f-4688-9e9f-f2c99bb878d0": {
+    "b3b68f6a-430a-4e34-bdb3-d4c08246f12b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Jump Start.anim.nasset",
-        "dependencies": [
-            "01942ee5-8681-7bb7-cae1-d247799d2d07"
-        ]
-    },
-    "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Walk.anim.nasset",
+        "path": "Assets/Characters/Animations/Idle.anim.nasset",
         "dependencies": [
             "01942ee5-8681-7bb7-cae1-d247799d2d07"
         ]
@@ -2363,18 +2363,18 @@
             "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
         ]
     },
-    "da6963f7-0ef1-45f0-8b7f-b031989b09c0": {
+    "c3ca7746-8ba7-42fc-9925-317d58a3ccc3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Jump Loop.anim.nasset",
+        "path": "Assets/Characters/Animations/Walk.anim.nasset",
         "dependencies": [
             "01942ee5-8681-7bb7-cae1-d247799d2d07"
         ]
     },
-    "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb": {
+    "f629c976-d063-46e3-a4df-e1c873701bdf": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Jump End.anim.nasset",
+        "path": "Assets/Characters/Animations/Run.anim.nasset",
         "dependencies": [
             "01942ee5-8681-7bb7-cae1-d247799d2d07"
         ]
