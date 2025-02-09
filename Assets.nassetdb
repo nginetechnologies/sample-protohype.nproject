@@ -2020,6 +2020,10 @@
             "dc7e2094-148c-438d-9b97-b6586e6e5f87"
         ]
     },
+    "0193d84b-d019-7baa-ab27-3e7c5a2ca8d4": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "0193d84c-4ce0-73b2-eeb9-dcc65bc2c7d6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Protohype_Thumb.tex.nasset"
